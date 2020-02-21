@@ -1,0 +1,11 @@
+.DS_Store
+# Sublime text3
+.phpintel
+# Logs
+logs
+*.Logs
+# Compiled directory and file
+build/
+bundle.js
+# Dependency directories
+node_modules/
